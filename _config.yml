@@ -9,7 +9,7 @@
 title                    : "Liangliang Wang"
 description              : "PhD Candidate in Geology Geodynamicist"
 repository               : "blingwang1996/blingwang1996.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  "koi0YFIAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
