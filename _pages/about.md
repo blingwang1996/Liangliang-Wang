@@ -28,7 +28,7 @@ My essential research tools are analytical and numerical modeling.
 - 地球动力学
 
   
-
+<span class='show_paper_citations' data='koi0YFIAAAAJ:ALROH1vI_8AC'></span>
 
 <span class='anchor' id='-xl'></span>
 
